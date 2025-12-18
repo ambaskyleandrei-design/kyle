@@ -1,0 +1,31 @@
+body {
+    font-family: 'Rockwell', 'Bookman Old Style', serif;
+    margin: 20px;
+    background-color: #e6f7ff; /* Light blue background */
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    background-color: #f0f0f0; /* Light gray background for header */
+    padding: 10px;
+    text-transform: uppercase;
+    color: #2c3e50;
+    text-shadow: 2px 2px 5px gray; /* Subtle shadow effect */
+}
+
+h2 {
+    color: #0073e6; /* Darker blue for subheadings */
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.5;
+    font-size: 1.1em;
+}
+
+.superscript {
+    font-size: 0.8em;
+    vertical-align: super;
+}
